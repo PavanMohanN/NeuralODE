@@ -114,7 +114,8 @@ We train both models sequentially on **Task 1** and **Task 2**. The steps are as
 ### **Metrics**
 - **Accuracy**: The accuracy is calculated for both tasks before and after training on Task 2. We use the formula:
   
-![Accuracy Equation](https://latex.codecogs.com/svg.latex?\text{Accuracy}=\frac{\text{Number%20of%20Correct%20Predictions}}{\text{Total%20Number%20of%20Predictions}})
+![Accuracy Equation](https://latex.codecogs.com/svg.latex?\textcolor{darkblue}{\text{Accuracy}=\frac{\text{Number%20of%20Correct%20Predictions}}{\text{Total%20Number%20of%20Predictions}}})
+
 
 
 
