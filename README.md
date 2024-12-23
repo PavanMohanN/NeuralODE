@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/79d6a5f9-30c3-4d35-a5bb-a167de5ae883)
+
+
 # **Catastrophic Forgetting Simulation with Neural Networks and Neural ODEs**
 
 This project demonstrates the phenomenon of **catastrophic forgetting** in neural networks and compares it with **Neural ODEs (Ordinary Differential Equations)** as an alternative to mitigate catastrophic forgetting. The goal is to simulate how these models behave when trained sequentially on two tasks, evaluate their performance before and after learning a new task, and compare their abilities to retain knowledge of the previous task.
