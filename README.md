@@ -113,6 +113,7 @@ We train both models sequentially on **Task 1** and **Task 2**. The steps are as
 
 ### **Metrics**
 - **Accuracy**: The accuracy is calculated for both tasks before and after training on Task 2. We use the formula:
+  
   \[
   \text{Accuracy} = \frac{\text{Number of Correct Predictions}}{\text{Total Number of Predictions}}
   \]
